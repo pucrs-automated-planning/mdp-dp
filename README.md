@@ -15,6 +15,7 @@ git clone https://github.com/pucrs-automated-planning/mdp-dp.git
 If you have not configured your python environment already, we recommend using [Anaconda Python](https://www.anaconda.com). Once you have anaconda, you should configure your local environment and install the required packages as follows:
 
 ```zsh
+cd mdp-dp
 conda create -n rl python=3.9
 conda activate rl
 conda install --file requirements.txt
