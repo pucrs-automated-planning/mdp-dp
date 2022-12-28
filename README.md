@@ -1,6 +1,6 @@
 # MDP Tutorial
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/pucrs-automated-planning/mdp-dp/blob/main/src/tutorial7-mdp.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pucrs-automated-planning/mdp-dp/blob/main/src/MDP.ipynb)
 
 Tutorial on MDPs and Dynamic Programming
 
